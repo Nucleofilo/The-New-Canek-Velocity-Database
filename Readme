@@ -5,7 +5,7 @@ This respository contains the code and some data and data samples used to create
 Requirements: We are using MATLAB version 23.2.0.2409890 (R2023b), October 4, 2023. 
 Some intrinsic functions may not be present of work differently in older versions.
 
-The file New_Canek_Database_2024.nc can be downloaded from [zenodo link], and will be needed for some of the scripts to work. 
+The file New_Canek_Database_2024.nc can be downloaded from https://zenodo.org/records/15677014, and will be needed for some of the scripts to work. 
 ______________________________________________________________________________________________________________________
 Other external 
 
